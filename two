@@ -1,0 +1,17 @@
+package com.navin;
+import java.until.*;
+class parent
+{
+system.out.println("hello csc")
+}
+}
+class  child extends parent 
+{
+system.out.println("hello DS");
+}
+public  class demo1{
+public static void main(string[] args)
+{
+child obj=new child();
+obj.CSC();
+obj.DS();
